@@ -1,0 +1,6 @@
+@CrudWebApiDBFirstMongo_HostAddress = http://localhost:5049
+
+GET {{CrudWebApiDBFirstMongo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
